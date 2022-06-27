@@ -1,7 +1,7 @@
 # Visualization-of-Constant-Numbers
 Visualizing some constant numbers by drawing lines.
-&nbsp
-Results:&nbsp
+<br>
+Results:<br>
 <img src="output/e.png" width="512"/>
 <img src="output/pi.png" width="512"/>
 <img src="output/phi.png" width="512"/>
