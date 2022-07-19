@@ -1,5 +1,5 @@
 # Visualization-of-Constant-Numbers
-Visualizing some constant numbers by drawing lines.
+Visualizing some constant numbers such as e, pi, golden ratio etc. by drawing lines.
 <br><br>
 Results:<br><br>
 <img src="output/e.png" width="400"/>
