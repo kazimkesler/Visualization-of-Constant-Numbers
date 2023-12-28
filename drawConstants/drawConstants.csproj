@@ -88,6 +88,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="output\e.png" />
+    <Content Include="output\phi.png" />
+    <Content Include="output\pi.png" />
+    <Content Include="output\sqrt2.png" />
+    <Content Include="output\sqrt3.png" />
+    <Content Include="output\sqrt5.png" />
     <Content Include="pi-icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
